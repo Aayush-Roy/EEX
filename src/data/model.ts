@@ -11,7 +11,7 @@ export const models: ModelItem[] = [
     id: "bagan",
     name: "Bagan Temple",
     thumbnail: "https://c.stocksy.com/a/G5C600/z9/1476422.jpg",
-    glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/bagan_temple_aerial_scan.glb",
+    glb: "https://f9d8erky8avygau8.public.blob.vercel-storage.com/bagan.glb",
     description:
       "The Bagan temple complex represents one of the largest concentrations of Buddhist temples in the world. Built between the 11th and 13th centuries, its pagodas and stupas reflect the artistic richness and spiritual depth of early Southeast Asian architecture. This model captures the layered terraces, pointed spires, and graceful symmetry that make Bagan an iconic ancient city."
   },
