@@ -19,7 +19,7 @@ export const models: ModelItem[] = [
     id: "angkor",
     name: "Angkor Wat",
     thumbnail: "https://blog.novatr.com/hubfs/Temple%20Architecture%20in%20India.webp",
-    glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/hindu_temple.glb",
+    glb: "https://f9d8erky8avygau8.public.blob.vercel-storage.com/hindu_temple.glb",
     description:
       "Angkor Wat stands as one of the grandest religious monuments ever constructed. Originally dedicated to Vishnu, it blends Hindu cosmology with Khmer architectural innovation. The towering lotus-shaped spires, detailed carvings, and massive stone enclosures reflect the cultural and spiritual legacy of the Khmer Empire. This 3D model showcases its timeless harmony and monumental scale."
   },
@@ -27,7 +27,7 @@ export const models: ModelItem[] = [
     id: "hindu",
     name: "Hindu Temple",
     thumbnail: "https://static.wixstatic.com/media/537d91_14cd3a934957447f9d594c0ff514bf48~mv2.png/v1/fill/w_1000,h_805,al_c,q_90,usm_0.66_1.00_0.01/537d91_14cd3a934957447f9d594c0ff514bf48~mv2.png",
-    glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/uthirakosamangai_temple_india.glb",
+    glb: "https://f9d8erky8avygau8.public.blob.vercel-storage.com/hajj.glb",
     description:
       "This traditional Hindu temple model represents the Dravidian and Nagara influences found across India. Intricate stone carvings, rising shikharas, symmetrical mandapas, and sacred inner sanctums form the core of its architecture. The temple embodies spiritual symbolism, ritual pathways, and the ancient principles of Vastu Shastra, celebrating centuries of Indian craftsmanship."
   },
@@ -35,17 +35,19 @@ export const models: ModelItem[] = [
     id: "borobudur",
     name: "Borobudur Temple",
     thumbnail: "https://europe.factsanddetails.com/archives/001/202409/large-9f4de01bd36b1646.jpg",
-    glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/temple_of_hephaestus__athens.glb",
+    // glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/temple_of_hephaestus__athens.glb",
+    glb:"https://f9d8erky8avygau8.public.blob.vercel-storage.com/temple.glb",
     description:
       "Borobudur, located in Indonesia, is one of the world’s greatest Buddhist monuments. Built in the 9th century, it features nine stacked platforms adorned with hundreds of Buddha statues and more than 2,500 relief panels. Designed as a spiritual journey from the earthly realm to enlightenment, the monument blends architecture, philosophy, and astronomy in a remarkable unity."
   },
-  {
-    id: "meiji",
-    name: "Third Century Roman Temple",
-    thumbnail: "https://englandsnortheast.co.uk/ne/wp-content/uploads/2021/08/Carrawburgh-Temple-Mithras.jpg",
-    glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/third_century_roman_temple.glb",
-    description:
-      "The Meiji Shrine in Tokyo is a peaceful Shinto complex dedicated to Emperor Meiji and Empress Shōken. Its architecture emphasizes simplicity, sacred harmony, and deep connection with nature. Surrounded by dense forest, the shrine’s torii gates, courtyards, and wooden structures reflect spiritual purity and traditional Japanese aesthetics."
-  },
+  // {
+  //   id: "meiji",
+  //   name: "Third Century Roman Temple",
+  //   thumbnail: "https://englandsnortheast.co.uk/ne/wp-content/uploads/2021/08/Carrawburgh-Temple-Mithras.jpg",
+  //   glb: "https://github.com/Aayush-Roy/EEX/releases/download/v1/third_century_roman_temple.glb",
+  //   // glb: "",
+  //   description:
+  //     "The Meiji Shrine in Tokyo is a peaceful Shinto complex dedicated to Emperor Meiji and Empress Shōken. Its architecture emphasizes simplicity, sacred harmony, and deep connection with nature. Surrounded by dense forest, the shrine’s torii gates, courtyards, and wooden structures reflect spiritual purity and traditional Japanese aesthetics."
+  // },
  
 ];
